@@ -11,5 +11,5 @@
 
 <div align="center"> 
 <a href = "mailto:samu.aby.h@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-<a href="https://www.linkedin.com/in/samuel-aby-2017b1186/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
+<a href="https://www.linkedin.com/in/samuel-aby-2017b1186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
