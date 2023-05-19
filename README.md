@@ -7,7 +7,13 @@
  <img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelhacan&layout=compact&hide_border=true&theme=transparent&title_color=B0C4DE&text_color=FFFFFF" />
 </div>
 
-<hr>
+### Hard Skills
+![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,sass,bootstrap,nodejs,babel,webpack,mysql)
+
+### Studying in this moment
+![My Skills](https://skillicons.dev/icons?i=typescript,react)
+
+<hr> 
 
 <div align="center"> 
 <a href = "mailto:samu.aby.h@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
