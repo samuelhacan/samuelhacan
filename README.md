@@ -7,10 +7,10 @@
 </div>
 
 ### Hard Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,nodejs,babel,webpack)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,bootstrap,nodejs,babel,webpack)
 
 ### Studying in this moment
-![My Skills](https://skillicons.dev/icons?i=typescript,react)
+![My Skills](https://skillicons.dev/icons?i=react)
 
 <hr> 
 
