@@ -7,7 +7,7 @@
 </div>
 
 ### Hard Skills
-![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,bootstrap,nodejs,babel,webpack)
+![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,sass,bootstrap,babel,webpack)
 
 ### Studying in this moment
 ![My Skills](https://skillicons.dev/icons?i=react)
