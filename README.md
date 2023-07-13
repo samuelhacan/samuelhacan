@@ -10,7 +10,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,typescript,react,html,css,sass,bootstrap,babel,webpack)
 
 ### Studying in this moment
-![My Skills](https://skillicons.dev/icons?i=nodejs)
+![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,mongodb,sequelize)
 
 <hr> 
 
